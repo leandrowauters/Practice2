@@ -16,3 +16,4 @@ var highX = 3
 var highY = 3
 d
 ds
+new
